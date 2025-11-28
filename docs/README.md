@@ -14,6 +14,7 @@ For quality assurance, every project incorporates automated and manual testing, 
 
 ## Documentation Index
 
+### Process Guides
 - [Project Management Overview](./octoacme-project-management-overview.md)
 - [Project Initiation Guide](./octoacme-project-initiation.md)
 - [Project Planning](./octoacme-project-planning.md)
@@ -22,6 +23,12 @@ For quality assurance, every project incorporates automated and manual testing, 
 - [Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
+
+### Checklists & Templates
+- [Sprint Ceremony Checklist](./octoacme-sprint-ceremony-checklist.md) — For Scrum Masters
+- [UX Design Handoff Checklist](./octoacme-ux-design-handoff-checklist.md) — For UX Designers
+- [Requirements Gathering Checklist](./octoacme-requirements-gathering-checklist.md) — For Business Analysts
+- [Test Strategy Template](./octoacme-test-strategy-template.md) — For QA Leads
 
 ## How to Use
 
